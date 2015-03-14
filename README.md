@@ -1,7 +1,8 @@
 # HTML5-Learn
-*HTML5練習用リポジトリ
-*HTML5 Learn Repository
+HTML5練習用リポジトリ
+
+HTML5 Learn Repository
 
 # ファイル構成
-*news01.html
-*style.css
+1. news01.html
+2. style.css

@@ -24,6 +24,9 @@ header h1 {font-family: 'Chango' , cursive ;
             margin-left: auto  ;
             margin-right: auto ;}
 
+header h1 img {vertical-align:  -10px;
+                margin-right: 5px}
+
 /*アーティクルバックエンドカラー*/
 article {background-color: #ffffff;width: 900px;
         margin-left: auto;
@@ -40,3 +43,7 @@ article {background-color: #ffffff;width: 900px;
 footer {width: 900px;
         margin-left: auto;
         margin-right: auto;}
+
+filter.photo-center {text-align: center;
+                    margin-top: 30px;
+                    margin-bottom: 30px;}

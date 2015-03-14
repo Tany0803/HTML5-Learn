@@ -1,0 +1,30 @@
+
+body {font-family: "メイリオ","Hiragio Kaku Hiragio Kaku Gothic Pro", sans-serif;
+    background-color: silver}
+    /* フォントメイリオ、バックグラウンドカラー　シルバー　 */
+
+h1 {font-size: 38px ;
+    margin-top: 0px}
+
+
+p {  line-height: 1.5;}
+
+/* ヘッダーカラー　*/
+header {background: #ffffff}
+
+/*アーティクルバックエンドカラー*/
+article {background-color: #ffffff;width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+        border: solid 1px #aaaaaa;
+        padding:  30px;
+        -webkit-box-xizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        margin-bottom: 15px;}
+
+
+
+footer {width: 900px;
+        margin-left: auto;
+        margin-right: auto;}

@@ -28,7 +28,6 @@ header h1	{font-family: 'Chango', cursive;
 header h1 img	{vertical-align: -10px;
     margin-right: 5px}
 
-
 /* 記事 */
 article	{background-color: #ffffff;
     width: 900px;
@@ -49,7 +48,8 @@ article	{background-color: #ffffff;
 footer	{width: 900px;
     margin-left: auto;
     margin-right: auto;
-    clear: both}
+    clear: left;
+    color: black;}
 
 /* 画像を中央に配置するレイアウト */
 figure.photo-center	{text-align: center;
@@ -76,3 +76,18 @@ h2	{clear: both;
     border-bottom: solid 5px #c39f4a;
     margin-top: 30px}
 
+a{color: black;
+    text-decoration: none;}
+
+a:hover {color: #ff8000}
+
+aside {border: solid 2px #aaaaaa;
+        border-radius: 5px;
+        padding: 10px;
+        background-color: beige;
+        margin-top: 40px;}
+
+
+aside h1 {font-family: 'Chango', cursive1;
+            font-size: 18px;
+            color: #c39f4a}

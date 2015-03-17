@@ -91,3 +91,8 @@ aside {border: solid 2px #aaaaaa;
 aside h1 {font-family: 'Chango', cursive1;
             font-size: 18px;
             color: #c39f4a}
+
+aside a{color: #000000;
+        text-decoration: none;}
+
+nav ul {list-style: none}
